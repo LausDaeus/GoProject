@@ -40,8 +40,8 @@ ant junitreport
 
 ## Authors
 
-*[NiklasZ](https://github.com/NiklasZ)
-*[eilidhbagel](https://github.com/eilidhbagel)
-*[Scoot Hood](https://github.com/hoodscott)
-*[Kiril](https://github.com/kirilhristov91)
-*[jamie00170](https://github.com/jamie00170)
+* [NiklasZ](https://github.com/NiklasZ)
+* [eilidhbagel](https://github.com/eilidhbagel)
+* [Scoot Hood](https://github.com/hoodscott)
+* [Kiril](https://github.com/kirilhristov91)
+* [jamie00170](https://github.com/jamie00170)
