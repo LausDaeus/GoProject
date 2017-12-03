@@ -1,8 +1,0 @@
-Contained within this directory is a .jar of our final project and all source files required to compile it.
-
-The jar file has been tested and is able to be ran on the linux lab machines and Windows 7.
-
-FOr linux, open a terminal in this directory and run the command "java -jar GoProblemSolver.jar".
-FOr Windows, simply double click to run the jar.
-
-Inside this directory is also another directory containing solved and unsolvable problems that can be loaded and played through using this program.  This directory is located at "src/saveData/boards/".  When loading a board, the program should open at this directory by default.
