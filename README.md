@@ -2,6 +2,8 @@
 
 This project is an interactive client that allows you to play "Life and Death" puzzles in the game of [Go](https://en.wikipedia.org/wiki/Go_(game)). It features several types of AIs that use various game trees such as minimax, alpha-beta and optimised variants of these, together with some pattern matching. It is currently capable of handling small to mid-sized puzzles.
 
+[example](doc/example.png)
+
 ## Running the Player
 
 The latest version of the player can be played by running the JAR in the main directory like so:
